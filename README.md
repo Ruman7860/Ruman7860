@@ -11,7 +11,7 @@
 
 ### Software Development Engineer · Full-Stack · AI Systems · Cloud
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-url.com](https://personal-portfolio-drab-eight-58.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-url.com](https://personal-portfolio-drab-eight-58.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ruman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdruman4094@gmail.com)
 
